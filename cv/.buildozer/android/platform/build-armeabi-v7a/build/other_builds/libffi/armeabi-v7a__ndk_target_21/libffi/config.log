@@ -912,7 +912,7 @@ configure:13036: $? = 0
 configure:13036: result: yes
 configure:13036: checking for mkostemp
 configure:13036: /home/iudh/.buildozer/android/platform/android-ndk-r19c/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -target armv7a-linux-androideabi21 -fomit-frame-pointer -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -mthumb -fPIC -o conftest -target armv7a-linux-androideabi21 -fomit-frame-pointer -march=armv7-a -mfloat-abi=softfp -mfpu=vfp -mthumb -fPIC -Wall -fexceptions -DANDROID -D__ANDROID_API__=21 -I/home/iudh/.buildozer/android/platform/android-ndk-r19c/sysroot/usr/include/arm-linux-androideabi -I/home/iudh/Kivy/cv/.buildozer/android/platform/build-armeabi-v7a/build/python-installs/myapp/include/python3.8   -L/home/iudh/Kivy/cv/.buildozer/android/platform/build-armeabi-v7a/build/libs_collections/myapp/armeabi-v7a conftest.c  >&5
-/tmp/conftest-67dcd8.o:conftest.c:function main: error: undefined reference to 'mkostemp'
+/tmp/conftest-3d30f7.o:conftest.c:function main: error: undefined reference to 'mkostemp'
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 configure:13036: $? = 1
 configure: failed program was:
