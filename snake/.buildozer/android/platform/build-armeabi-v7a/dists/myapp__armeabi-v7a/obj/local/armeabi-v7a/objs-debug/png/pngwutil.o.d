@@ -1,0 +1,23 @@
+/home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/obj/local/armeabi-v7a/objs-debug/png/pngwutil.o: \
+  /home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/pngwutil.c \
+  /home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/pngpriv.h \
+  /home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/pnglibconf.h \
+  /home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/png.h \
+  /home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/pngconf.h \
+  /home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/pngstruct.h \
+  /home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/pnginfo.h \
+  /home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/pngdebug.h
+
+/home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/pngpriv.h:
+
+/home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/pnglibconf.h:
+
+/home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/png.h:
+
+/home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/pngconf.h:
+
+/home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/pngstruct.h:
+
+/home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/pnginfo.h:
+
+/home/iudh/Kivy/snake/.buildozer/android/platform/build-armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_image/external/libpng-1.6.32/pngdebug.h:
